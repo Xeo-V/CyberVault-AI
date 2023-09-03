@@ -59,7 +59,49 @@ python main.py
 
 -----------------------------------------------------------------------------------------------------------------------
 
+🛠️ Usage :
+
+    Initialization: On first launch, you'll be prompted to create a secure master password.
+    Password Generation: Navigate to the 'Generate Password' tab for crafting strong passwords.
+    Storage and Retrieval: Use the 'Add' and 'Retrieve' functions for handling your passwords.
+
 -----------------------------------------------------------------------------------------------------------------------
+
+🌐 Technology Stack :
+
+    Front-end: Built using PyQt for a streamlined graphical user interface.
+    Back-end: Developed in Python for robust and versatile functionality.
+    Machine Learning: Utilizes scikit-learn for real-time password strength analysis.
+    Cryptography: Employs the PyCrypto library for secure encryption and hashing mechanisms.
+
 -----------------------------------------------------------------------------------------------------------------------
+
+🛡️ Security Measures :
+
+    AES-256 Encryption: Implements AES-256, a symmetric encryption algorithm, to provide top-notch security for stored passwords.
+    Argon2 Hashing Algorithm: Utilized for hashing and verifying the master password, adding an extra layer of security.
+    End-to-End Encryption: Ensures that data synchronization across multiple devices is secure and private.
+    Machine Learning Analysis: Evaluates the strength and security of your passwords in real-time, warning you of potential vulnerabilities.
+
 -----------------------------------------------------------------------------------------------------------------------
+
+🚀 Future Enhancements :
+
+    Integration of Two-Factor Authentication for increased security.
+    Implementation of biometric login features.
+    Development of an auto-fill feature for ease of use.
+    Adding notifications for password expiration or breaches.
+
 -----------------------------------------------------------------------------------------------------------------------
+
+📈 Project Progress :
+I will be adding even more functionality in future, make sure to save it for yourself
+▰▰▰▰▰▰▰▰▰▰▱▱▱ 75% Complete ❤️
+
+-----------------------------------------------------------------------------------------------------------------------
+
+👩‍💻 Contribution and Development :
+Interested in contributing? Your expertise could make this project even more secure and user-friendly. Check our Contribution Guidelines for more information on how to get involved (below).
+
+-----------------------------------------------------------------------------------------------------------------------
+
