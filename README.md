@@ -42,7 +42,7 @@ Prerequisites
 Steps
 
     1.Clone the Repository :
-    ```git clone https://github.com/yourusername/nextgen-password-manager.git```
+    git clone https://github.com/yourusername/nextgen-password-manager.git
 
  ```2.Navigate to Project Directory```
     ```cd nextgen-password-manager```
