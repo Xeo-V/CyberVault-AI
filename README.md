@@ -95,6 +95,7 @@ python main.py
 -----------------------------------------------------------------------------------------------------------------------
 
 📈 Project Progress :
+
 I will be adding even more functionality in future, make sure to save it for yourself
 
 ▰▰▰▰▰▰▰▰▰▰▱▱▱ 75% Complete ❤️
