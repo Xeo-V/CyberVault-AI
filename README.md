@@ -44,14 +44,18 @@ Steps
     1.Clone the Repository :
     git clone https://github.com/yourusername/Xeo-V/CyberVault-AI.git
 
- ```2.Navigate to Project Directory```
-    ```cd nextgen-password-manager```
-
- ```3.Install Dependencies```
-    ```pip install -r requirements.txt```
-
- ```4.Launch the Application```
-    ```python main.py```
+```
+    2.Navigate to Project Directory :
+    cd nextgen-password-manager
+```
+```
+    3.Install Dependencies :
+    pip install -r requirements.txt
+```
+```
+    4.Launch the Application :
+    python main.py
+```
 
 -----------------------------------------------------------------------------------------------------------------------
 
