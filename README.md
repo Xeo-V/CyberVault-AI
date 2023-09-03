@@ -107,3 +107,7 @@ Interested in contributing? Your expertise could make this project even more sec
 
 -----------------------------------------------------------------------------------------------------------------------
 
+MAKE SURE TO READ THE "Disclaimer.txt" BEFORE USING THIS OPENSOURCE SOFTWARE.
+
+-----------------------------------------------------------------------------------------------------------------------
+
