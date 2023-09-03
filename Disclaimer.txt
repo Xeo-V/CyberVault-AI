@@ -1,0 +1,6 @@
+Disclaimer: 
+While CyberVault-AI is designed to provide robust security, it's important to note that no system can be completely infallible. 
+Technology evolves, and security measures that are effective today may become obsolete in the future. 
+Although we strive to keep the software updated, we cannot guarantee eternal invulnerability. 
+Please exercise caution and common sense while using this open-source tool.
+The developers will not be liable for any damage or loss incurred as a result of using this software.
