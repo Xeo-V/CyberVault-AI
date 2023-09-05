@@ -55,4 +55,4 @@ Coding Style
     Use meaningful variable and function names.
     Comment your code and keep comments up-to-date.
 
-By following these guidelines, you help make the contribution process predictable and easier to manage. Thank you for contributing to CyberVault-AI!
+By following these guidelines, you help make the contribution process predictable and easier to manage. Thank you for contributing to CyberVault-AI! 
